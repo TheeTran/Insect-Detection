@@ -16,6 +16,7 @@ The main objective of my system is to **automatically recognize and categorize i
 ## 🎯 Objectives
 - **Automate insect recognition** using the YOLO model.
 - **Develop a web platform** Thingspeak - where users can monitor insect activity in real-time.
+<img width="40%" alt="image" src="https://github.com/user-attachments/assets/05bc97d1-2960-4833-a507-5810843b31b4">
 
 ---
 
@@ -26,6 +27,7 @@ Here’s how the system works:
 <img width="521" alt="image" src="https://github.com/user-attachments/assets/174a5fdd-2563-4c88-a869-e3d738ddd716">
 
 3. **Image Processing with YOLO Models**: The YOLOv5 and YOLOv9 models were employed to identify and categorize insects.
+<img width="30%" alt="image" src="https://github.com/user-attachments/assets/31a9c4f4-7f6a-4c74-9cdc-00d9846b9cf8">
 
 <img src="https://github.com/user-attachments/assets/d82c9964-0be7-4eb1-931f-b7a1bf949492" alt="Project Image" width="40%">
 
